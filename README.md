@@ -1,4 +1,5 @@
 MVVM-SwiftUI
+![ss](https://github.com/mrasityilmaz/Training-MovieApp-SwiftUI/blob/main/preview.png)
 
 <img width="50" height="50"  alt="exportB58818D6-830E-4531-B150-24F8C4963A1F" src="https://user-images.githubusercontent.com/81583706/175791113-2142c53b-7454-48b3-b731-8694ae8bd345.png">
 
